@@ -29,7 +29,7 @@ Output: "ellowyay achtyay"
 
 * _open terminal_
 * _type "cd desktop", then press enter_
-* _type "git clone https://github.com/SolarDor/pig-latin", then press enter_
+* _type "git clone https://github.com/SolarDor/piglatin", then press enter_
 * _locate and open folder on desktop named "pig-latin"_
 * _open the file named "index.html"_
 
